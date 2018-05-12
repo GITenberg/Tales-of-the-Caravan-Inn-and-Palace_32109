@@ -1,0 +1,41 @@
+_repo: Tales-of-the-Caravan-Inn-and-Palace_32109
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Stowell, Edward L.
+    gutenberg_agent_id: '35664'
+    url: http://www.gutenberg.org/2009/agents/35664
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hauff, Wilhelm
+    birthdate: 1802
+    deathdate: 1827
+    gutenberg_agent_id: '2125'
+    url: http://www.gutenberg.org/2009/agents/2125
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Wilhelm_Hauff
+    - http://en.wikipedia.org/wiki/Wilhelm_Hauff
+description: ''
+gutenberg_issued: '2010-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32109'
+  lccn: '22014785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, German -- Translations into English'
+- !lcc 'PT'
+tableOfContents: 'Pt. 1. Tales of the caravan: The caravan. The caliph stork. The
+  amputated hand. The rescue of Fatima. Little Muck. The false prince -- Pt. 2. Tales
+  of the inn: The inn in the Spessart. The hirsch-gulden. The marble heart (first
+  part). Said''s adventures. The cave of Steenfoll. The marble heart (second part)
+  -- Pt. 3. Tales of the palace: The sheik''s palace and his slaves. The dwarf Nosey.
+  Abner, the Jew. The young Englishman. The story of Almansor.'
+title: Tales of the Caravan, Inn, and Palace
+url: http://www.gutenberg.org/ebooks/32109
